@@ -6,4 +6,7 @@ var rfc = "910503";
 var sexo = "H";  //h =  hombre  m= mujer
 var estado = "VZ";
 
-Verificar resultado en la consola 
+Verificar resultado en la consola:
+curp: AOCM910503HVZRRG06,
+rfc:  AOCM910503IXA
+
