@@ -1,4 +1,3 @@
-Calcular curp y rfc con homoclave.
 Abrir archivo y modificar parametros en <script></script>
 var ap_paterno = "arroyo";
 var ap_materno = "de la cruz";
